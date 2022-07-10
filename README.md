@@ -1,5 +1,5 @@
 # AI-Assistance
-speak and make your system work like alexa and siri.
+speak and make your system work like Alexa and Siri.
 
 
 step1: wish by AI
